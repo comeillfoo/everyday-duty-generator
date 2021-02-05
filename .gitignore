@@ -1,0 +1,12 @@
+# ignore build directory
+build
+
+# ignore execution file
+make-duty*
+
+# ignore out folder
+out
+
+# ignore all generated .tex documents
+*.tex
+
