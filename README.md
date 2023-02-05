@@ -10,3 +10,7 @@ Future formats:
 + html
 + json
 + csv
+
+## Deprecated
+
+use the more convenient version at https://github.com/Come1LLF00/everyday-duty-generator-python
